@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Carlos, thanks for stopping by!
 
-I'm working on a couple of projects in my spare time, but they are not mature enough (or maybe I'm not! 😅) to be hosted on one public repo here—at least for now. However, I also write for Towards Data Science, so you can read my code there as most of [my articles](https://medium.com/@carlosjuribe/list/an-intelligent-decision-support-system-for-tourism-in-python-b6ba165b4236) are hands-on tutorials where I try to make the transition between reading _prose_ and reading _code_ as pleasant as possible.
+I'm working on a couple of projects in my spare time, but they are not mature enough (or maybe I'm not! 😅) to be hosted on one public repo here—at least for now. However, I also write for Towards Data Science, so you can read my code there as most of [my articles](https://medium.com/@carlosjuribe) are hands-on tutorials where I try to make the transition between reading _prose_ and reading _code_ as pleasant as possible.
 
 ### 🔭 What I do and why
 
